@@ -44,7 +44,7 @@
 	<category>
 		<pattern> # OI # MEU NOME É _ </pattern>
 		<template>
-			<think><set name ="nameusuario"><star index="3"></star></set></think>
+			<think><set name ="nameusuario"><star index="2"></star></set></think>
 			<random>
 				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
 				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
@@ -68,7 +68,7 @@
 	<category>
 		<pattern> # OLÁ # MEU NOME É _ </pattern>
 		<template>
-			<think><set name ="nameusuario"><star index="3"></star></set></think>
+			<think><set name ="nameusuario"><star index="2"></star></set></think>
 			<random>
 				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
 				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
@@ -227,7 +227,7 @@
 			<random>
 				<li> Estou bem, caso também esteja bem me faça uma pergunta sobre ecologia.</li>
 				<li> Estou bem, caso também esteja bem faça uma pergunta para min.</li> 
-				<li> Estou bem, se você estiver bem pergunte-me alguma coisa sobre ecologia.</li>    
+				<li> Estou bem, se você estiver bem, pergunte alguma coisa sobre ecologia.</li>    
 			</random>
 		</template>
 	</category>  
@@ -289,7 +289,7 @@
 		<template>
 			<random>
 			<li> Meu objetivo é te ajudar com problemas relacionados à ecologia.</li>
-			<li> Meu proposito é tirar as suas dúvidas sobre esse ecologia.</li> 
+			<li> Meu proposito é tirar as suas dúvidas sobre ecologia.</li> 
 			<li> Sou aquele que pode tirar as suas dúvidas sobre ecologia.</li>    
 			</random>
 		</template>
@@ -547,9 +547,7 @@
 		</template>
 	</category>
 
-
-
-		<category>
+	<category>
 		<pattern> # QUE # VOCÊ # DESEMPENHA # </pattern>
 		<template>
 			<srai> # OQUE # VOCÊ # FAZ # </srai>
@@ -660,6 +658,34 @@
 	</category> 
 
 	<category>
+		<pattern> # OQUE # TU # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>
+
+		<category>
+		<pattern> # OQUE # TU # ÉS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # ES # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>
+
+	<category>
 		<pattern> # QUE # VOCÊ # É # </pattern>
 		<template>
 			<srai> # OQUE # VOCÊ # É # </srai>
@@ -700,6 +726,34 @@
 			<srai> # OQUE # VOCÊ # É # </srai>
 		</template>
 	</category> 
+
+	<category>
+		<pattern> # QUE # TU # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # TU # ÉS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # ES # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>
 
 
 	<category>
