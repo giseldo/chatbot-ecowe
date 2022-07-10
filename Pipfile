@@ -3,19 +3,5 @@ name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
 
-[dev-packages]
-
-[packages]
-flask
-PyYAML
-apscheduler
-beautifulsoup4
-requests
-sqlalchemy
-pymongo
-redis
-lxml
-wikipedia
-
 [requires]
 python_version = "3.7"
