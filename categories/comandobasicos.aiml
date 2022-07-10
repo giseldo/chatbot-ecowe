@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+	<!--  Saudações e Perguntas Pertinentes -->
+
+	<!--  Oi meu nome é _____ -->
+
+	<category>
+		<pattern> # ME CHAMO _ </pattern>
+		<template>
+			<think><set name ="nomeusuario"><star index="2"></star></set></think>
+			<random>
+				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
+				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
+				<li> Oie, <get name ="nomeusuario"></get> me diga uma dúvida.</li>
+			</random>
+		</template>
+	</category>  
+	
+	<category>
+		<pattern> # MEU NOME É _ </pattern>
+		<template>
+			<think><set name ="nameusuario"><star index="2"></star></set></think>
+			<random>
+				<li> Olá, <get name ="nameusuario"></get> faça uma pergunta para mim.</li>
+				<li> Oi, <get name ="nameusuario"></get> me faça uma pergunta.</li>
+				<li> Oie, <get name ="nameusuario"></get> me diga uma dúvida.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OI # ME CHAMO _ </pattern>
+		<template>
+			<think><set name ="nomeusuario"><star index="3"></star></set></think>
+			<random>
+				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
+				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
+				<li> Oie, <get name ="nomeusuario"></get> me diga uma dúvida.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # OI # MEU NOME É _ </pattern>
+		<template>
+			<think><set name ="nameusuario"><star index="2"></star></set></think>
+			<random>
+				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
+				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
+				<li> Oie, <get name ="nomeusuario"></get> me diga uma dúvida.</li>
+			</random>
+		</template>
+	</category>
+
+		<category>
+		<pattern> # OLÁ # ME CHAMO _ </pattern>
+		<template>
+			<think><set name ="nomeusuario"><star index="3"></star></set></think>
+			<random>
+				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
+				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
+				<li> Oie, <get name ="nomeusuario"></get> me diga uma dúvida.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # OLÁ # MEU NOME É _ </pattern>
+		<template>
+			<think><set name ="nameusuario"><star index="2"></star></set></think>
+			<random>
+				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
+				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
+				<li> Oie, <get name ="nomeusuario"></get> me diga uma dúvida.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # OLA # ME CHAMO _ </pattern>
+		<template>
+			<think><set name ="nomeusuario"><star index="3"></star></set></think>
+			<random>
+				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
+				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
+				<li> Oie, <get name ="nomeusuario"></get> me diga uma dúvida.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # OLA # MEU NOME É _ </pattern>
+		<template>
+			<think><set name ="nameusuario"><star index="3"></star></set></think>
+			<random>
+				<li> Olá, <get name ="nomeusuario"></get> faça uma pergunta para mim.</li>
+				<li> Oi, <get name ="nomeusuario"></get> me faça uma pergunta.</li>
+				<li> Oie, <get name ="nomeusuario"></get> me diga uma dúvida.</li>
+			</random>
+		</template>
+	</category>
+
+	<!-- Oi/olá/ -->
+	
+	<category>
+		<pattern> # OI # </pattern>
+		<template>
+			<random>
+				<li> Olá, eu sou o chatbot Ecowê, faça uma pergunta para mim.</li>
+				<li> Oi, eu sou um chatbot de ecologia e meu nome é Ecowê, me faça uma pergunta.</li> 
+				<li> Olá, eu sou um chatbot e meu nome é Ecowê, me faça uma pergunta.</li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # OLÁ # </pattern>
+		<template>
+			<srai> # OI # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OLA # </pattern>
+		<template>
+			<srai> # OI # </srai>
+		</template>
+	</category>
+
+
+	<!--  oi, Tudo bem -->
+	
+	<category>
+		<pattern> #	OI # TUDO # BEM # </pattern>
+		<template>
+			<random>
+				<li> Oi, tudo bem, eu sou o chatbot do Ecowê, estou a sua disposição.</li>
+				<li> Opa, tudo bom, eu sou um chatbot de ecologia e meu nome é Ecowê, me faça uma pergunta.</li> 
+				<li> Olá, tudo bem, eu sou um chatbot e meu nome é Ecowê, me faça uma pergunta.</li>    
+			</random>
+		</template>
+	</category>  
+	
+	<category>
+		<pattern> # OLÁ # TUDO # BEM # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OLA # TUDO # BEM # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OI # TUDO # BOM # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OLÁ # TUDO # BOM # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OLA # TUDO # BOM # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OI # COMO # VAI # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OLÁ # COMO # VAI # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OLA # COMO # VAI # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OI # TUDO # CIMA # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OLÁ # TUDO # CIMA # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OLA # TUDO # CIMA # </pattern>
+		<template>
+			<srai> # OI # TUDO # BEM # </srai>
+		</template>
+	</category>
+
+	<!--  ESTÁ TUDO BEM? -->
+
+	<category>
+		<pattern> # TUDO # BEM # </pattern>
+		<template>
+			<random>
+				<li> Estou bem, caso também esteja bem me faça uma pergunta sobre ecologia.</li>
+				<li> Estou bem, caso também esteja bem faça uma pergunta para min.</li> 
+				<li> Estou bem, se você estiver bem, pergunte alguma coisa sobre ecologia.</li>    
+			</random>
+		</template>
+	</category>  
+	
+	<category>
+		<pattern> # TUDO # BOM # </pattern>
+		<template>
+			<srai> # TUDO # BEM # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # COMO # VAI # </pattern>
+		<template>
+			<srai> # TUDO # BEM # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TUDO # CIMA # </pattern>
+		<template>
+			<srai> # TUDO # BEM # </srai>
+		</template>
+	</category>
+
+
+	<!--  Você pode me ajudar -->
+
+	<category>
+		<pattern> # PODE # AJUDAR # </pattern>
+		<template>
+			<random>
+				<li> Estou aqui para isso!</li>
+				<li> Claro, qual é a sua dúvida?</li> 
+				<li> Sim, é isso que eu mais quero!</li>    
+			</random>
+		</template>
+	</category>  
+
+	<category>
+		<pattern> # CONSEGUE # AJUDAR # </pattern>
+		<template>
+			<srai> # PODE # AJUDAR # </srai>
+		</template>
+	</category> 
+	
+	<category>
+		<pattern> # É CAPAZ # AJUDAR # </pattern>
+		<template>
+			<srai> # PODE # AJUDAR # </srai>
+		</template>
+	</category>
+		
+
+	<!--  O que você faz? -->
+
+	<category>
+		<pattern> # OQUE # VOCÊ # FAZ # </pattern>
+		<template>
+			<random>
+			<li> Meu objetivo é te ajudar com problemas relacionados à ecologia.</li>
+			<li> Meu proposito é tirar as suas dúvidas sobre ecologia.</li> 
+			<li> Sou aquele que pode tirar as suas dúvidas sobre ecologia.</li>    
+			</random>
+		</template>
+	</category>  
+	
+	<category>
+		<pattern> # QUE # VOCÊ # FAZ # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VOCE # FAZ # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OQUE # VOCE # FAZ # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VC # FAZ # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VC # FAZ # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # FAZES # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # FAZ # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # TU # FAZ # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # FAZES # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+		
+	<category>
+		<pattern> # QUE # VOCÊ # REALIZA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VOCE # REALIZA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OQUE # VOCE # REALIZA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VC # REALIZA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VC # REALIZA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # REALIZAS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # REALIZA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # TU # REALIZA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # REALIZAS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+		<category>
+		<pattern> # QUE # VOCÊ # EXERCE # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VOCE # EXERCE # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OQUE # VOCE # EXERCE # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VC # EXERCE # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VC # EXERCE # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # EXERCES # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # EXERCE # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # TU # EXERCE # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # EXERCES # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+		
+	<category>
+		<pattern> # QUE # VOCÊ # EXECUTA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VOCE # EXECUTA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OQUE # VOCE # EXECUTA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VC # EXECUTA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VC # EXECUTA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # EXECUTAS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # EXECUTA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # TU # EXECUTA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # EXECUTAS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # VOCÊ # DESEMPENHA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VOCE # DESEMPENHA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # OQUE # VOCE # DESEMPENHA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VC # DESEMPENHA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VC # DESEMPENHA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # DESEMPENHAS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # DESEMPENHA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # TU # DESEMPENHA # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # DESEMPENHAS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # FAZ # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # OQUE # VOCÊ # É # </pattern>
+		<template>
+			<random>
+				<li> Eu sou o Ecowé, um chatbot sobre ecologia.</li>
+				<li> Meu nome é Ecowé, um chatbot sobre assuntos de ecologia.</li> 
+				<li> Sou o chatbot Ecowé, aquele que pode tirar suas dúvidas sobre ecologia.</li>    
+			</random>
+		</template>
+	</category>  
+
+	<category>
+		<pattern> # OQUE # VOCE # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VOCE # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VOCÊ # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VC # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # VC # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>
+
+		<category>
+		<pattern> # OQUE # TU # ÉS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # OQUE # TU # ES # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # VOCÊ # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>  
+
+	<category>
+		<pattern> # QUE # VOCE # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VOCE # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VOCÊ # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VC # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # VC # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # É # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # E # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # QUE # TU # ÉS # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category> 
+
+	<category>
+		<pattern> # QUE # TU # ES # </pattern>
+		<template>
+			<srai> # OQUE # VOCÊ # É # </srai>
+		</template>
+	</category>
+
+
+	<!-- OI em inglês -->
+
+	<category>
+    	<pattern> # HELLO # </pattern>
+    	<template>
+        	<random>
+				<li> Hi, eu sou o chatbot Ecowê, faça uma pergunta para mim em português.</li>
+				<li> Hello, eu sou um chatbot de ecologia e meu nome é Ecowê, me faça uma pergunta em português.</li> 
+        		<li> Hey, eu sou um chatbot e meu nome é Ecowê, me faça uma pergunta em português.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # HI # </pattern>
+    	<template>
+        	<srai> # HELLO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Caso não ache resposta: -->
+
+	<category>
+		<pattern> * </pattern>
+		<template>
+			<random>
+				<li> Desculpa, não sei oque você está falando.</li>
+				<li> Desculpa, não entendi o que você falou.</li> 
+				<li> Desculpa, não entendi, por favor repita.</li>    
+			</random>
+		</template>
+	</category> 
+
+
+  	<category>
+		<pattern> ^ </pattern>
+		<template>Me faça uma pergunta sobre ecologia.</template>
+	</category>  
+  
+</aiml>

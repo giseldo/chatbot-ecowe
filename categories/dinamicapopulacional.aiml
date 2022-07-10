@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+	<!-- O que é a densidade populacional? -->
+
+	<category>
+    	<pattern> # DENSIDADE # POPULACIONAL # </pattern>
+    	<template>
+        	<random>
+				<li> Densidade populacional é a relação entre o número de indivíduos de uma população e a área ou volume que ocupam.</li>
+				<li> Densidade populacional é um termo utilizado para descrever a relação entre o número de organismos de uma população e o volume ou área em que moram.</li> 
+        		<li> A densidade populacional é a associação entre a quantidade de indivíduos de uma população e o espaço em que vivem.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DENSIDADES # POPULACIONAL # </pattern>
+    	<template>
+        	<srai> # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DENSIDADE # POPULACIONAIS # </pattern>
+    	<template>
+        	<srai> # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DENSIDADES # POPULACIONAIS # </pattern>
+    	<template>
+        	<srai> # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é a calcular densidade populacional? -->
+
+	<category>
+    	<pattern> # CALCULAR # DENSIDADE # POPULACIONAL # </pattern>
+    	<template>
+        	<random>
+				<li> A fórmula da densidade populacional é calculada por: densidade populacional = nº indivíduos / espaço.</li>
+				<li> A densidade populacional é calculada por esta fórmula: Densidade populacional = n° indivíduos / espaço.</li> 
+        		<li> A fórmula da densidade populacional: Densidade populacional = nº indivíduos / espaço.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # DENSIDADES # POPULACIONAL # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # DENSIDADE # POPULACIONAIS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # DENSIDADES # POPULACIONAIS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # DENSIDADE # POPULACIONAL # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # DENSIDADES # POPULACIONAL # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # DENSIDADE # POPULACIONAIS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # DENSIDADES # POPULACIONAIS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # DENSIDADE # POPULACIONAL # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # DENSIDADES # POPULACIONAL # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # DENSIDADE # POPULACIONAIS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # DENSIDADES # POPULACIONAIS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # DENSIDADE # POPULACIONAL # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é taxa de natalidade? -->
+
+	<category>
+    	<pattern> # TAXA # NATALIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> Taxa de natalidade é o número de indivíduos que nascem na população num determinado tempo.</li>
+				<li> A taxa de natalidade é a quantidade de indivíduos que nascem na população em um tempo estipulado.</li> 
+        		<li> Taxa de natalidade é o número de organismos que nascem na população num intervalo de tempo escolhido.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXA # NATALIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # NATALIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # NATALIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # TAXA # NASCIMENTO # </pattern>
+    	<template>
+        	<srai> # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # TAXA # NASCIMENTOS # </pattern>
+    	<template>
+        	<srai> # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # NASCIMENTO # </pattern>
+    	<template>
+        	<srai> # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # NASCIMENTOS # </pattern>
+    	<template>
+        	<srai> # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é a calcular taxa de natalidade? -->
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # NATALIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> A taxa de natalidade é calculada por esta fórmula: taxa de natalidade = nº de nascimento / tempo.</li>
+				<li> A taxa de natalidade é medida por esta fórmula: taxa de natalidade = nº de nascimento / tempo.</li>  
+        		<li> Fórmula da taxa de natalidade: taxa de natalidade = nº de nascimento / tempo.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # NATALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # NATALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # NATALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # NATALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # NATALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # NATALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # NATALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # NATALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # NATALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # NATALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # NATALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	
+	<category>
+    	<pattern> # CALCULAR # TAXA # NASCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # CALCULAR # TAXA # NASCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # NASCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # NASCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # NASCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # NASCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # NASCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # NASCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # NASCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # NASCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # NASCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # NASCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # NATALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+
+	<!-- O que é taxa de mortalidade? -->
+
+	<category>
+    	<pattern> # TAXA # MORTALIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> Taxa de mortalidade é o número de indivíduos que morrem na população num determinado tempo.</li>
+				<li> A taxa de mortalidade é a quantidade de indivíduos que morrem na população em um tempo estipulado.</li> 
+        		<li> Taxa de mortalidade é o número de organismos que morrem na população num intervalo de tempo escolhido.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXA # MORTALIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # MORTALIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # MORTALIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # TAXA # MORTE # </pattern>
+    	<template>
+        	<srai> # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # TAXA # MORTES # </pattern>
+    	<template>
+        	<srai> # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # MORTE # </pattern>
+    	<template>
+        	<srai> # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # MORTES # </pattern>
+    	<template>
+        	<srai> # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Como calcular a taxa de mortalidade/fórmula da taxa de mortalidade? -->
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # MORTALIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> A taxa de mortalidade é calculada por esta fórmula: taxa de mortalidade = nº de mortes / tempo.</li>
+				<li> A taxa de mortalidade é medida por esta fórmula: taxa de mortalidade = nº de mortes / tempo.</li>  
+        		<li> Fórmula da taxa de mortalidade: taxa de mortalidade = nº de mortes / tempo.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # MORTALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # MORTALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # MORTALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # MORTALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # MORTALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # MORTALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # MORTALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # MORTALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # MORTALIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # MORTALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # MORTALIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	
+	<category>
+    	<pattern> # CALCULAR # TAXA # MORTE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # CALCULAR # TAXA # MORTES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # MORTE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # MORTES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # MORTE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # MORTES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # MORTE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # MORTES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # MORTE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # MORTES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # MORTE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # MORTES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # MORTALIDADE # </srai>
+    	</template>
+  	</category>
+
+
+		<!-- O que é taxa de imigração? -->
+
+	<category>
+    	<pattern> # TAXA # IMIGRAÇÃO # </pattern>
+    	<template>
+        	<random>
+				<li> Taxa de imigração é o número de indivíduos que migram na população num determinado tempo.</li>
+				<li> A taxa de imigração é a quantidade de indivíduos que entram na população em um tempo estipulado.</li> 
+        		<li> Taxa de imigração é o número de organismos que migram na população num intervalo de tempo escolhido.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXA # IMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # IMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # IMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<!-- Como calcular a taxa de imigração/fórmula da taxa de imigração? -->
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # IMIGRAÇÃO # </pattern>
+    	<template>
+        	<random>
+				<li> A taxa de imigração é calculada por esta fórmula: taxa de imigração = nº de imigrantes / tempo.</li>
+				<li> A taxa de imigração é medida por esta fórmula: taxa de imigração = nº de imigrantes / tempo.</li>  
+        		<li> Fórmula da taxa de imigração: taxa de imigração = nº de imigrantes / tempo.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # IMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # IMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # IMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # IMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # IMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # IMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # IMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # IMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # IMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # IMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # IMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é taxa de emigração? -->
+
+	<category>
+    	<pattern> # TAXA # EMIGRAÇÃO # </pattern>
+    	<template>
+        	<random>
+				<li> Taxa de emigração é o número de indivíduos que emigram da população num determinado tempo.</li>
+				<li> A taxa de emigração é a quantidade de indivíduos que saem da população em um tempo estipulado.</li> 
+        		<li> Taxa de emigração é o número de organismos que emigram da população num intervalo de tempo escolhido.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXA # EMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # EMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # EMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # TAXA # IMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<!-- Como calcular a taxa de emigração/fórmula da taxa de emigração? -->
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # EMIGRAÇÃO # </pattern>
+    	<template>
+        	<random>
+				<li> A taxa de emigração é calculada por esta fórmula: taxa de emigração = nº de emigrantes / tempo.</li>
+				<li> A taxa de emigração é medida por esta fórmula: taxa de emigração = nº de emigrantes / tempo.</li>  
+        		<li> Fórmula da taxa de emigração: taxa de emigração = nº de emigrantes / tempo.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # EMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # EMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # EMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # EMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # EMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # EMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # EMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # EMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # EMIGRAÇÃO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # EMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # EMIGRAÇÕES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # EMIGRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+ 
+	<!-- O que é índice de fertilidade/ taxa de fecundidade? -->
+
+	<category>
+    	<pattern> # TAXA # FECUNDIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> Índice de fertilidade ou taxa de fecundidade são termos utilizados para expressar o número médio de descendentes que uma fêmea produz durante seu período reprodutivo.</li>
+				<li> O índice de fertilidade ou taxa de fecundidade são nomes empregadas para evidenciar o número médio da prole que uma fêmea concebe durante seu ciclo reprodutivo.</li> 
+        		<li> A taxa de fecundidade ou índice de fertilidade são palavras usadas para demonstrar a quantidade média de filhos que uma fêmea gera durante sua fase reprodutiva.</li>  
+				<li> A taxa de fecundidade ou índice de fertilidade é a quantidade de indivíduos que foram gerados por uma fêmea durante seu ciclo reprodutivo.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXA # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # TAXA # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXA # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	
+	<category>
+    	<pattern> # ÍNDICE # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICE # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICES # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICES # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # ÍNDICE # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICE # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICES # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICES # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # INDICE # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICE # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICES # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICES # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # INDICE # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICE # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICES # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICES # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Como calcular a taxa de fertilidade/fórmula da taxa de fecundidade? -->
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # FECUNDIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> A taxa de fecundidade ou índice de fertilidade é calculado a partir dessa fórmula: taxa de fertilidade = n° total de filhos gerados / n° de ciclos reprodutivos. </li>
+				<li> A fórmula da taxa de fertilidade ou índice de fecundidade: taxa de fertilidade = n° total de filhos gerados / n° de ciclos reprodutivos.</li>  
+        		<li> O índice de fertilidade ou taxa de fecundidade é contabilizado a partir dessa fórmula: taxa de fertilidade = n° total de filhos gerados / n° de ciclos reprodutivos.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICE # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICE # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICES # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICES # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICE # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICES # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICE # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICES # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICE # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICES # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICE # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICES # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICE # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICE # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICES # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICES # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICE # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICES # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICE # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICES # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICE # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICES # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICE # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICES # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # CALCULAR # INDICE # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICE # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICES # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICES # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # INDICE # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICES # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICE # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICES # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICE # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICES # FECUNDIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICE # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>	
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICES # FECUNDIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # CALCULAR # INDICE # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICE # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICES # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICES # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # INDICE # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICES # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICE # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICES # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICE # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICES # FERTILIDADE # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICE # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICES # FERTILIDADES # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # FECUNDIDADE # </srai>
+    	</template>
+  	</category>
+
+ 
+	<!-- O que é índice de crescimento? -->
+
+	<category>
+    	<pattern> # TAXA # CRESCIMENTO # </pattern>
+    	<template>
+        	<random>
+				<li> O índice de crescimento é o número de indivíduos acrescentados na população dividida pela quantidade de indivíduos que saíram da população. No resultado da divisão terá a informação de que a população está diminuindo, aumentado ou em equilíbrio, se o resultado dê maior que 1 a população está aumentando, se o resultado seja menor que 1 a população está diminuindo e se o resultado é igual a 1 a população está em equilíbrio. </li>
+				<li> O índice de crescimento é o número de indivíduos que foram incluídos na população dividida pelo número de indivíduos que deixaram a população. O resultado da divisão revela que a população está diminuindo, aumentado ou em equilíbrio, caso o resultado dê maior que 1 a população está aumentando, se o resultado é menor que 1 a população está diminuindo e se o resultado for exatamente igual a 1 a população está em equilíbrio. </li> 
+        		<li> Índice de crescimento é a quantidade de indivíduos incorporados na população dividida pelo número de indivíduos que foram removidos da população, caso o resultado seja maior que 1 a população está crescendo, se o resultado dê menor que 1 a população está diminuindo e se o resultado é igual a 1 a população está em equilíbrio. </li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXA # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TAXAS # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	
+	<category>
+    	<pattern> # ÍNDICE # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICE # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICES # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÍNDICES # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # INDICE # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICE # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICES # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INDICES # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Como calcular a taxa de crescimento? -->
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # CRESCIMENTO # </pattern>
+    	<template>
+        	<random>
+				<li> O índice de crescimento de uma população pode ser calculado pela natalidade mais a imigração dividido por mortalidade mais a emigração. </li>
+				<li> A fórmula do índice de crescimento é dada por: I.C = (natalidade + imigração) / (mortalidade + emigração).</li>  
+        		<li> A fórmula do índice de crescimento é I.C = (natalidade + imigração) / (mortalidade + emigração).</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXA # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # TAXAS # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXA # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # TAXAS # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXA # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # TAXAS # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICE # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICE # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICES # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # ÍNDICES # CRESCIMENTOS # </pattern>
+	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICE # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICES # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICE # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # ÍNDICES # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICE # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICES # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICE # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # ÍNDICES # CRESCIMENTOS # </pattern>
+	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # CALCULAR # INDICE # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICE # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICES #CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CALCULAR # INDICES # CRESCIMENTOS # </pattern>
+	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓRMULA # INDICE # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICES # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICE # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓRMULA # INDICES # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICE # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICES # CRESCIMENTO # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICE # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>	
+  	</category>
+
+	<category>
+    	<pattern> # FORMULA # INDICES # CRESCIMENTOS # </pattern>
+    	<template>
+        	<srai> # CALCULAR # TAXA # CRESCIMENTO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é potencial biótico? -->
+
+	<category>
+    	<pattern> # POTENCIAL # BIÓTICO # </pattern>
+    	<template>
+        	<random>
+				<li> O potencial biótico é quando uma população tem todas as condições ideais para se expandir em um ambiente, ou seja, é uma situação hipotética.</li>
+				<li> É chamado de potencial biótico quando populações têm condições perfeitas, através do meio ambiente, de se expandir.</li> 
+        		<li> O potencial biótico é quando o ambiente fornece condições perfeitas para os seres vivos se desenvolverem, isto é uma situação irreal.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # POTENCIAL # BIOTICO # </pattern>
+    	<template>
+        	<srai> # POTENCIAL # BIÓTICO # </srai>
+    	</template>
+  	</category>
+
+	<!-- O que é resistência ambiental? -->
+
+	<category>
+    	<pattern> # RESISTÊNCIA # AMBIENTAL # </pattern>
+    	<template>
+        	<random>
+				<li> Resistência ambiental é quando o meio ambiente fornece empecilhos para o grande crescimento de uma população, ou seja, a resistência ambiental é um mecanismo natural de equilíbrio das populações. </li>
+				<li> A resistência ambiental é quando o meio ambiente fornece limitações contra o rápido e exponencial crescimento de uma população.</li> 
+        		<li> A resistência ambiental é a limitação do crescimento da população por causa do meio, no qual impede seu crescimento desenfreado.  </li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RESISTENCIA # AMBIENTAL # </pattern>
+    	<template>
+        	<srai> # RESISTÊNCIA # AMBIENTAL # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é curva de crescimento real de uma população? -->
+
+	<category>
+    	<pattern> # CRESCIMENTO # REAL # </pattern>
+    	<template>
+        	<random>
+				<li> A curva de crescimento real é o crescimento dado pela interação de potencial biótico e os fatores de resistência ambiental.</li>
+				<li> A curva de crescimento real é a interação entre o potencial biótico e os fatores de resistência ambiental.</li> 
+        		<li> A curva de crescimento é dada pela interação entre os fatores da resistência ambiental e o potencial biótico.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	
+	<!-- O que é a carga biótica máxima do ambiente? -->
+
+	<category>
+    	<pattern> # CARGA # BIÓTICA # </pattern>
+    	<template>
+        	<random>
+				<li> A carga biótica máxima do ambiente é a capacidade máxima que os indivíduos podem crescer em um determinado ambiente.</li>
+				<li> A carga biótica máxima do ambiente é o limite de indivíduos que um meio pode aguentar.</li> 
+        		<li> A carga biótica máxima do ambiente está relacionada ao tamanho populacional máximo suportado pelo ambiente. </li>  
+        	</random>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # CARGA # BIOTICA # </pattern>
+    	<template>
+        	<srai> # CARGA # BIÓTICA # </srai>
+    	</template>
+  	</category>
+  
+</aiml>

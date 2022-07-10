@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml>
+
+  <!-- O que é ser autótrofo/produtor? -->
+
+
+    <category>
+        <pattern> # PRODUTORES # </pattern>
+        <template>
+            <random>
+                <li> Os produtores são seres que produzem sua própria comida, sendo as plantas o maior exemplo.</li>
+                <li> Os seres produtores são seres que através de processos químicos, como a fotossíntese ou quimiossíntese, produzem seu próprio alimento.</li> 
+                <li> Os produtores são seres autótrofos, ou seja, são aqueles que produzem seu próprio alimento, como plantas e algas, através de processos químicos fotossíntese.</li>
+                <li> Os seres produtores ou seres autótrofos são os seres que produzem seu próprio alimento, sendo a fotossíntese um exemplo de produção de energia.</li>
+                <li> Os seres autótrofos ou também chamados de seres produtores são aqueles que podem sintetizar os compostos orgânicos através de compostos inorgânicos, essa transformação pode ser feita por fotossíntese ou quimiossíntese.</li>
+                <li> Seres autótrofos ou seres produtores são aqueles que através da fotossíntese, por exemplo, podem sintetizar compostos orgânicos através de substâncias inorgânicas como a luz.</li>
+            </random>
+        </template>
+    </category>
+  
+  
+    <category>
+        <pattern> # PRODUTOR #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern> # AUTOTRÓFICOS #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> # AUTOTRÓFICO #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> # AUTOTROFICOS #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> # AUTOTROFICO #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> # AUTOTRÓFOS #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> # AUTOTRÓFO #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> # AUTOTROFOS #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> # AUTOTROFO #  </pattern>
+        <template>
+            <srai> # PRODUTORES # </srai>
+        </template>
+    </category>
+
+
+  <!-- Qual a importância dos seres autótrofos/produtores? -->
+
+    <category>
+        <pattern> # IMPORTÂNCIA # PRODUTORES # </pattern>
+        <template>
+            <random>
+                <li> A importância dos seres autótrofos é que eles são a base da cadeia alimentar e dos ciclos alimentares.</li>
+                <li> Os autótrofos são de suma importância na cadeia alimentar, pois participam da nutrição de diversos outros seres vivos.</li> 
+                <li> Os seres autótrofos são de grande importância na nutrição de animais heterótrofos, logo influenciam a nutrição e subsistência dos outros seres vivos.</li>
+            </random>
+        </template>
+    </category>
+  
+    <category>
+    	<pattern> # IMPORTANCIA # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTÂNCIA # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+    
+<category>
+    	<pattern> # IMPORTÂNCIA # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+       	<category>
+    	<pattern> # IMPORTÂNCIA # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   <category>
+    	<pattern> # IMPORTÂNCIA # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   <category>
+    	<pattern> # IMPORTÂNCIA # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   <category>
+    	<pattern> # IMPORTÂNCIA # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AUTOTRÓFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTÂNCIA # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AUTOTRÓFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # IMPORTÂNCIA # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # IMPORTÂNCIA # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # PRODUTORES # </srai>
+    	</template>
+  	</category>
+
+
+  <!-- Exemplos de seres autótrofos/produtores? -->
+
+    <category>
+        <pattern> # EXEMPLO # PRODUTOR # </pattern>
+        <template>
+            <random>
+                <li> Os exemplos de seres autótrofos são as plantas, algas e algumas bactérias.</li>
+                <li> As plantas são os principais representantes de seres autótrofos.</li> 
+                <li> As plantas e algumas bactérias, por exemplo.</li>
+            </random>
+        </template>
+    </category>
+  
+    <category>
+    	<pattern> # EXEMPLOS # PRODUTOR # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLO # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLOS # PRODUTORES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    
+    <category>
+    	<pattern> # EXEMPLO # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLO # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLOS # AUTOTROFICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLOS # AUTOTROFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+
+    <category>
+    	<pattern> # EXEMPLO # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLO # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLOS # AUTOTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLOS # AUTOTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+
+    <category>
+    	<pattern> # EXEMPLO # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLO # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLOS # AUTOTRÓFICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EXEMPLOS # AUTOTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # PRODUTOR # </srai>
+    	</template>
+  	</category>
+
+
+    <category>
+        <pattern> # COMSUMIDORES # </pattern>
+        <template>
+            <random>
+            <li> São seres que se alimentam de outros seres para sobreviver.</li>
+            <li> São animais que consomem os seres para sobreviver.</li> 
+            <li> Consumidores são principalmente seres heterotróficos, aqueles que não conseguem produzir seu próprio alimento, ou seja, se alimentam de seres autotróficos e dos seres heterotróficos.</li>
+            </random>
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern> # COMSUMIDOR #  </pattern>
+        <template>
+            <srai> # COMSUMIDORES # </srai>
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern> # DECOMPOSITORES # </pattern>
+        <template>
+            <random>
+                <li> São os seres que decompõem matérias orgânicas.</li>
+                <li> Representado principalmente pelos fungos, são os que ajudam na decomposição da matéria orgânica.</li> 
+                <li> Os decompositores são aqueles que a cada nível da cadeia decompõem os restos de material orgânico, sendo os principais representantes os fungos, reciclando e reutilizando a matéria orgânica.</li>
+            </random>
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern> # DECOMPOSITOR #  </pattern>
+        <template>
+            <srai> # DECOMPOSITORES # </srai>
+        </template>
+    </category>
+      <category>
+        <pattern> # NÍVEIS # TRÓFICOS # </pattern>
+        <template>
+            <random>
+                <li> Nível trófico é um grupo de conjuntos bióticos e abióticos que forma um Ecossistema.</li>
+                <li> Também chamado de cadeia alimentar, é o “ciclo sem fim”.</li> 
+                <li> Nível trófico é um conjunto de seres bióticos e abióticos que formam a cadeia alimentar e possuem ações semelhantes.</li>
+            </random>
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern> # NIVEIS # TRÓFICOS #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+    
+        
+    <category>
+        <pattern> # NÍVEIS # TROFICOS #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+  
+    
+    <category>
+        <pattern> # NIVEIS # TROFICOS #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+
+</aiml>

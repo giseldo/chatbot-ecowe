@@ -1,0 +1,3208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+    <!-- Oque é espécie -->
+
+	<category>
+    	<pattern> # ESPÉCIE # </pattern>
+    	<template>
+        	<random>
+				<li> Espécie é um conjunto de organismos semelhantes que, quando cruzados entre si, produzem descendentes férteis.</li>
+				<li> Espécie é um termo da biologia que se refere a um conjunto de organismos parecidos que, quando acasalam entre si, procriam filhos férteis.</li> 
+        		<li> Espécie é um conjunto de organismos similares que, quando cruzados entre si, geram uma prole fértel.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # ESPÉCIES # </pattern>
+    	<template>
+        	<srai> # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESPECIE # </pattern>
+    	<template>
+        	<srai> # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESPECIES # </pattern>
+    	<template>
+        	<srai> # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+    <!-- Exemplo de espécies? -->
+
+	<category>
+    	<pattern> # EXEMPLO # ESPÉCIE # </pattern>
+    	<template>
+        	<random>
+				<li> O ser humano é um exemplo de espécie, pois quando cruzados entre si, produzem descendentes férteis. </li>
+				<li> O leão é um exemplo de espécie, pois quando cruzados entre si, produzem descendentes férteis. </li> 
+        		<li> O rinoceronte é um exemplo de espécie, pois quando cruzados entre si, produzem descendentes férteis. </li>    
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # EXEMPLO # ESPECIE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # ESPÉCIES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # ESPECIES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # ESPÉCIE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # ESPECIE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # ESPECIES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # ESPÉCIES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # ESPÉCIE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # ESPECIE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # ESPÉCIES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # ESPECIES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # ESPÉCIE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # ESPECIE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # ESPÉCIES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # ESPECIES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # ESPÉCIE # </srai>
+    	</template>
+  	</category>
+
+    <!-- O que é população? -->
+
+	<category>
+    	<pattern> # POPUPALAÇÃO # </pattern>
+    	<template>
+        	<random>
+				<li> População é um conjunto formado pelos organismos de uma determinada espécie vivendo numa determinada área, durante período de tempo definido.</li>
+				<li> População é um termo da biologia que retrata um conjunto formado pelos organismos de uma determinada espécie vivendo num determinado local, no decorrer do período de tempo demarcado.</li> 
+        		<li> População é um grupo formado pelos indivíduos de uma mesma espécie vivendo numa determinada área, durante intervalo de tempo delimitado.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # POPUPALAÇAO # </pattern>
+    	<template>
+        	<srai> # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # POPUPALACÃO # </pattern>
+    	<template>
+        	<srai> # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # POPUPALACAO # </pattern>
+    	<template>
+        	<srai> # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # POPUPALAÇÕES # </pattern>
+    	<template>
+        	<srai> # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # POPUPALACÕES # </pattern>
+    	<template>
+        	<srai> # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # POPUPALAÇOES # </pattern>
+    	<template>
+        	<srai> # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # POPUPALACOES # </pattern>
+    	<template>
+        	<srai> # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <!-- Exemplo população? -->
+
+	<category>
+    	<pattern> # EXEMPLO # POPUPALAÇÃO # </pattern>
+    	<template>
+        	<random>
+				<li> A população brasileira é um exemplo de população de seres humanos em um determinado local e durante período de tempo. </li>
+				<li> A população de rinoceronte-negros da África do Sul é um exemplo de população de rinocerontes-negros em um determinado local e durante período de tempo.</li> 
+        		<li> A população de leões africanos é um exemplo de população de leões que vivem na África durante período de tempo.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # EXEMPLO # POPUPALAÇAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # POPUPALACÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # POPUPALACAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # POPUPALAÇAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # POPUPALACÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # POPUPALACAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # POPUPALAÇÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # POPUPALAÇAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # POPUPALACÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # POPUPALACAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+	
+
+	<category>
+    	<pattern> # TIPO # POPUPALAÇÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # POPUPALAÇAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # POPUPALACÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # POPUPALACAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # POPUPALAÇAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # POPUPALACÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # POPUPALACAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # POPUPALAÇÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # POPUPALAÇAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # POPUPALACÃO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # POPUPALACAO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # POPUPALAÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<!-- O que é comunidade/biocenose? -->
+
+	<category>
+    	<pattern> # BIOCENOSE # </pattern>
+    	<template>
+        	<random>
+				<li> Comunidade ou biocenose é um termo utilizado na biologia que retrata um conjunto formado por populações que se inter-relacionam num determinado ambiente e tempo, ou seja, são os fatores bióticos de um ecossistema. </li>
+				<li> Biocenose ou comunidade é um conjunto formado por várias populações que se inter-relacionam numa determinada área e tempo, ou melhor, são os fatores bióticos de um ecossistema.</li> 
+        		<li> Comunidade ou biocenose é um conjunto formado por populações que se inter-relacionam num determinado local e tempo, isto é, são os fatores bióticos de um ecossistema.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<!--  Qual a importância da comunidade/biocenose? -->
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # BIOCENOSE # </pattern>
+    	<template>
+        	<random>
+				<li> As comunidades ou biocenoses são importantes para a biodiversidade de um ecossistema e para as interações dos seres vivos. Além disso, são importantes para o equilíbrio ecológico. </li>
+				<li> As biocenoses ou comunidades são importantes para a biodiversidade de um ecossistema e para as relações dos seres vivos. Além disso, são essenciais para o equilíbrio ecológico. </li> 
+        		<li> As comunidades ou biocenoses são essenciais para a diversidade de vida de um ecossistema e para as relações dos seres vivos. Além disso, são essenciais para o equilíbrio ecológico.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+   	
+	<category>
+		<pattern> # FUNDAMENTAL # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # ESSENCIAL # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # RELEVANTE # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # MARCANTE # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+   	
+	<category>
+		<pattern> # FUNDAMENTAL # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # ESSENCIAL # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # RELEVANTE # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # MARCANTE # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<!--  As comunidades/biocenoses são importantes? -->
+
+	<category>
+    	<pattern> # BIOCENOSE # IMPORTANTE # </pattern>
+    	<template>
+        	<random>
+				<li> Sim, as comunidades ou biocenoses são importantes para a biodiversidade de um ecossistema e para as interações dos seres vivos. Além disso, são importantes para o equilíbrio ecológico. </li>
+				<li> Sim, as biocenoses ou comunidades são importantes para a biodiversidade de um ecossistema e para as relações dos seres vivos. Além disso, são essenciais para o equilíbrio ecológico. </li> 
+        		<li> Sim, as comunidades ou biocenoses são essenciais para a diversidade de vida de um ecossistema e para as relações dos seres vivos. Além disso, são essenciais para o equilíbrio ecológico.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # BIOCENOSE # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # COMUNIDADE # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # COMUNIDADE # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<!--  As comunidades/biocenoses não são importantes? -->
+
+	<category>
+    	<pattern> # BIOCENOSE # NÃO # IMPORTANTE # </pattern>
+    	<template>
+        	<random>
+				<li> Na verdade, as comunidades ou biocenoses são importantes para a biodiversidade de um ecossistema e para as interações dos seres vivos. Além disso, são importantes para o equilíbrio ecológico. </li>
+				<li> Não, as biocenoses ou comunidades são importantes para a biodiversidade de um ecossistema e para as relações dos seres vivos. Além disso, são essenciais para o equilíbrio ecológico. </li> 
+        		<li> Não, as comunidades ou biocenoses são essenciais para a diversidade de vida de um ecossistema e para as relações dos seres vivos. Além disso, são essenciais para o equilíbrio ecológico.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NÃO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # BIOCENOSE # NÃO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NÃO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # NAO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+	
+
+	<category>
+    	<pattern> # BIOCENOSES # NAO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # BIOCENOSE # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # BIOCENOSE # NÃO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NÃO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NÃO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # NAO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NAO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # BIOCENOSE # NÃO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NÃO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NÃO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # NAO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NAO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSE # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOCENOSES # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # COMUNIDADE # NÃO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NÃO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NÃO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NAO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # COMUNIDADE # NÃO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NÃO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NÃO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NAO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # COMUNIDADE # NÃO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NÃO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NÃO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NAO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADE # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # COMUNIDADES # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIOCENOSE # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<!-- Exemplo de biocenose/comunidade? -->
+
+	<category>
+    	<pattern> # EXEMPLO # BIOCENOSE # </pattern>
+    	<template>
+        	<random>
+				<li> Um exemplo de comunidade são as várias populações de elefantes, macacos, leões e entre outras populações de animais que estão se relacionando em um intervalo de tempo em um ecossistema da savana africana.</li>
+				<li> Exemplo de comunidade: a junção das populações de peixes, tubarões, corais e entre outras populações de animais que estão se relacionando em algum período de tempo em um ecossistema aquático.</li> 
+        		<li> Um exemplo de comunidade são as muitas populações de onças, serpentes, jacarés e entre outras populações de animais que estão se relacionando nesse exato momento em um ecossistema da floresta amazônica.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # BIOCENOSES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # EXEMPLO # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # COMUNIDADE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # COMUNIDADES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # BIOCENOSE # </srai>
+    	</template>
+  	</category>
+
+    <!-- Oque é Biótopo -->
+
+	<category>
+    	<pattern> # BIÓTOPO # </pattern>
+    	<template>
+        	<random>
+				<li> Biótopo é um conjunto de componentes físicos e geoquímicos do meio, isto é, os fatores não vivos de um ecossistema.</li>
+				<li> Biótopo é constituído por componentes físicos e geoquímicos do meio, ou seja, os componentes não vivos de um ecossistema.</li> 
+        		<li> Biótopo são os componentes não vivos de um ecossistema, ou seja, os fatores físicos e geoquímicos do meio. </li>    
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+
+	<!--  Qual a importância do biótopo? -->
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # BIÓTOPO # </pattern>
+    	<template>
+        	<random>
+				<li> O biótopo é importante, pois junto com a biocenose, formam um conjunto de condições que definem um ecossistema ou bioma.</li>
+				<li> O biótopo é importante para a formação dos ecossistemas, biomas e para a biodiversidade.</li> 
+        		<li> O biótopo é importante para a formação e equilíbrio dos ecossistemas e biomas.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+   	
+	<category>
+		<pattern> # FUNDAMENTAL # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIOCENOSE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # ESSENCIAL # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # RELEVANTE # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # MARCANTE # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<!--  Os Biótopos são importantes? -->
+
+	<category>
+    	<pattern> # BIÓTOPO # IMPORTANTE # </pattern>
+    	<template>
+        	<random>
+				<li> Sim, o biótopo é importante para a formação e equilíbrio dos ecossistemas e biomas. </li>
+				<li> Claro, o biótopo é importante para a formação dos ecossistemas, biomas e para a biodiversidade.</li> 
+        		<li> Concerteza, o biótopo é importante para a formação e equilíbrio dos ecossistemas e biomas.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # BIÓTOPO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+
+	<!--  Os Biótopos não são importantes? -->
+
+	<category>
+    	<pattern> # BIÓTOPO # NÃO # IMPORTANTE # </pattern>
+    	<template>
+        	<random>
+				<li> Na verdade, o biótopo é importante para a formação e equilíbrio dos ecossistemas e biomas. </li>
+				<li> Não, o biótopo é importante para a formação dos ecossistemas, biomas e para a biodiversidade.</li> 
+        		<li> Não, o biótopo é importante para a formação e equilíbrio dos ecossistemas e biomas.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NÃO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # BIÓTOPO # NÃO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NÃO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NÃO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NÃO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NÃO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NÃO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NÃO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NÃO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NÃO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NÃO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NAO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NAO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NAO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NAO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NAO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NAO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # BIOTOPOS # NÃO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # BIOTOPO # NÃO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NÃO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NÃO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NÃO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NÃO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NÃO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NÃO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NÃO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NÃO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NÃO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NAO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NAO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NAO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NAO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NAO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NAO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NAO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NAO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # NAO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # NÃO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<!-- Oque são fatores antrópicos? -->
+
+	<category>
+    	<pattern> # FATORES # ANTRÓPICOS # </pattern>
+    	<template>
+        	<random>
+				<li> Os fatores antrópicos são relativos às ações humanas que interferem no meio, causando consequências nos ecossistemas.</li>
+				<li> Os fatores antrópicos estão relacionados às ações humanas que interferem negativamente ou positivamente no meio ambiente, causando problemas ou resolvendo tais problemas nos ecossistemas.</li> 
+        		<li> Os fatores antrópicos estão relacionados aos comportamentos humanos que interferem no meio ambiente, causando consequências negativas, na maior parte das vezes, ou positivas nos ecossistemas.</li>   
+				<li> Os fatores antrópicos estão relacionados com a ação humana e suas atividades normalmente negativas para o ecossistema.</li>
+				<li> Fatores antrópicos são o desequilíbrio no meio ambiente causado pelo ser humano.</li>
+				<li> Os fatores antrópicos são as ações humanas no ecossistema.</li>
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FATORES # ANTROPICOS # </pattern>
+    	<template>
+        	<srai> # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FATOR # ANTRÓPICOS # </pattern>
+    	<template>
+        	<srai> # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FATOR # ANTRÓPICO # </pattern>
+    	<template>
+        	<srai> # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # FATOR # ANTROPICOS # </pattern>
+    	<template>
+        	<srai> # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FATOR # ANTROPICO # </pattern>
+    	<template>
+        	<srai> # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FATORES # ANTRÓPICO # </pattern>
+    	<template>
+        	<srai> # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FATORES # ANTROPICO # </pattern>
+    	<template>
+        	<srai> # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+    <!-- Oque é atmosfera -->
+
+	<category>
+    	<pattern> # ATMOSFERA # </pattern>
+    	<template>
+        	<random>
+				<li> A atmosfera terrestre é uma camada de gases que protege a Terra. Sendo, a atmosfera é repartida em 5 partes: troposfera, estratosfera, mesosfera, termosfera e exosfera.</li>
+				<li> A atmosfera terrestre é uma camada de ar formada por gases que envolve a Terra. Ademais, a atmosfera é dividida em 5 partes: troposfera, estratosfera, mesosfera, termosfera e exosfera.</li> 
+        		<li> A atmosfera terrestre é uma camada de ar feita por misturas de gases que protege a Terra. Além disso, a atmosfera é dividida em várias partes: troposfera, estratosfera, mesosfera, termosfera e exosfera.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!--  Qual a importância da atmosfera? -->
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # ATMOSFERA # </pattern>
+    	<template>
+        	<random>
+				<li> A atmosfera terrestre é muito importante, pois ajuda a manter a temperatura e faz o barramento da radiação solar. Ademais, a atmosfera tem um papel enorme na formação dos ventos, no clima e no oceano.</li>
+				<li>A importância da atmosfera deve-se pela proteção causada na terra em relação ao barramento da radiação solar. Além disso, a atmosfera tem um grande papel por causa da pressão atmosférica que influencia no clima, no oceano e na formação dos ventos.</li> 
+        		<li> A atmosfera terrestre é muito importante, pois ajuda a manter a temperatura e faz o barramento da radiação solar. Além do mais, a atmosfera interfere no movimento dos ventos, no clima e no oceano. </li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # ATMOSFERA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ATMOSFERA # </srai>
+    	</template>
+  	</category>
+
+    <!-- Oque é litosfera -->
+
+	<category>
+    	<pattern> # LITOSFERA # </pattern>
+    	<template>
+        	<random>
+				<li> A litosfera é a camada sólida da Terra, é um elemento dinâmico, Além disso, é o local onde andamos e andamos diariamente.</li>
+				<li> A litosfera é a camada rochosa da Terra, é um elemento que se encontra em constante transformação.  A parte mais superficial da litosfera é chamada de crosta terrestre.</li> 
+        		<li> A litosfera é a camada sólida da Terra e é um elemento que se encontra sempre em transformação. Ademais, a litosfera é o nosso querido chão.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+    <!-- Oque é hidrosfera -->
+
+	<category>
+    	<pattern> # HIDROSFERA # </pattern>
+    	<template>
+        	<random>
+				<li> A hidrosfera é o conjunto de toda água do planeta, inclusive as partículas de água que formam as nuvens. </li>
+				<li> A hidrosfera é a totalidade de toda água do planeta, até mesmo as moléculas de água que geram as nuvens.</li> 
+        		<li> A hidrosfera é a soma total da água do planeta, doce e salgada, incluindo as que compõem as nuvens.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<!-- Oque é biosfera -->
+
+	<category>
+    	<pattern> # BIOSFERA # </pattern>
+    	<template>
+        	<random>
+				<li> A biosfera é a parte da união entre atmosfera, litosfera e hidrosfera do planeta Terra que pode abrigar vida.</li>
+				<li> A biosfera é a parte do planeta Terra que pode sustentar a vida.</li> 
+        		<li> A biosfera é a parte da união entre atmosfera, litosfera e hidrosfera, que pode abrigar vida.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<!-- Oque é habitat -->
+
+	<category>
+    	<pattern> # HABITAT # </pattern>
+    	<template>
+        	<random>
+				<li> Habitat é a residência de um organismo ou espécie no ambiente onde vive.</li>
+				<li> Habitat é o local em que um organismo ou espécie vive no meio ambiente.</li> 
+        		<li> Habitat é o lugar em que um indivíduo ou espécie mora no ambiente.</li>
+				<li> Habitat é o local em que um indivíduo ou espécie habita no ambiente.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # HABITATS # </pattern>
+    	<template>
+        	<srai> # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # HABITAT # </srai>
+    	</template>
+  	</category>
+
+
+<!--  Qual a importância da habitat? -->
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # HABITAT # </pattern>
+    	<template>
+        	<random>
+				<li> A importância do habitat para o indivíduo é que o habitat irá oferecer abrigo, alimento e entre outras coisas necessárias para sua sobrevivência. Além disso, as características do habitat são muito importantes para o nicho ecológico da espécie, que reside no habitat, e para a biodiversidade do lugar.</li>
+				<li>O habitat é muito importante para o indivíduo, pois o habitat irá oferecer alimento, abrigo e entre outras coisas importantes para sua sobrevivência. Ademais, os atributos do habitat são bastante relevantes para o nicho ecológico da espécie, que mora no habitat, e para a diversidade de vida do local.</li> 
+        		<li> O habitat é muito importante para o organismo, pois o habitat irá oferecer abrigo, alimento e entre outras coisas necessárias para sua vida. Outrossim, as particularidades do habitat são muito importantes para o modo de vida da espécie, que reside no local, e para a biodiversidade do lugar.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # IMPORTANTE # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HABITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # MARCANTE # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HABITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # IMPORTANTE # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # MARCANTE # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HABITAT # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Exemplo de habitat? -->
+
+	<category>
+    	<pattern> # EXEMPLO # HÁBITAT # </pattern>
+    	<template>
+        	<random>
+				<li> Um exemplo de habitat são as cavernas, habitats para os morcegos.</li>
+				<li> Um exemplo de habitat são as geleiras do Círculo Polar Ártico, habitats para os ursos polares.</li> 
+        		<li> Um exemplo de habitat são os rios sul americanos, habitats para as piranhas.</li>    
+        		<li> Um exemplo de habitat são as savanas africanas, habitats para os leões africanos.</li>
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # HABITAT # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # HABITATS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HABITAT # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HABITATS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HÁBITAT # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HABITAT # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HABITATS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS HÁBITAT # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HABITAT # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HÁBITATS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HABITATS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é/importancia a luz na biologia? -->
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # LUZ # </pattern>
+    	<template>
+        	<random>
+				<li> A luz é essencial para grande parte dos seres vivos e no ecossistema, sendo importante fator abiótico que pode agir de várias maneiras no nosso meio ambiente, tanto que, ela desempenha diferentes formas no meio, como a radiação, intensidade entre outros fatores.</li>
+				<li> A luz é vital para os seres vivos, pois grande parte necessita dela para viver, principalmente as plantas, já que, elas desempenham o processo de fotossíntese.</li> 
+        		<li> Na biologia a luz é um dos elementos fundamentais no desenvolvimento dos seres vivos, pois desempenha inúmeros papéis, de forma direta e indireta, para todo o ecossistema.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- A importância da temperatura? -->
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # TEMPERATURA # </pattern>
+    	<template>
+        	<random>
+				<li> A temperatura pode influenciar de diversas formas um ser vivo, indo do seu comportamento até aspectos morfológicos, como também para sua sobrevivência.</li>
+				<li> A luz é vital para os seres vivos, pois grande parte necessita dela para viver, principalmente as plantas, já que, elas desempenham o processo de fotossíntese.</li> 
+        		<li> Na biologia a luz é um dos elementos fundamentais no desenvolvimento dos seres vivos, pois desempenha inúmeros papéis, de forma direta e indireta, para todo o ecossistema.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # INFLUÊNCIA # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUENCIA # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+
+
+	<category>
+    	<pattern> # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUÊNCIA # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUENCIA # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUÊNCIAS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUENCIAS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é Salinidade? -->
+
+	<category>
+    	<pattern> # SALINIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> A salinidade é definida pela concentração de sais minerais presentes na água, um dos fatores que condicionam a vida no meio aquático.</li>
+				<li> A salinidade é a relação entre a concentração de sais na água. Além disso, a salinidade influencia nas condições de vida no meio aquático.</li> 
+        		<li> A salinidade está correlacionada com sais minerais presentes na água. Outrossim, a salinidade é um fator que condicionam a vida dos seres aquáticos.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!-- O que é Solo? -->
+
+	<category>
+    	<pattern> # SOLO # </pattern>
+    	<template>
+        	<random>
+				<li> O solo é a mistura de diversos materiais, sendo eles principalmente rochosos e de matéria orgânica, contudo cada solo apresenta suas peculiaridades, como a porosidade, pH, textura e permeabilidade. </li>
+				<li> É  um conjunto de vários materiais rochosos e matéria orgânica misturadas, contudo além disso cada solo possui suas particularidades, sendo elas: porosidade, pH, textura e permeabilidade.</li> 
+        		<li> O solo é a junção, principalmente, de materiais rochosos e matéria orgânica, contudo ele pode apresentar características específicas, como a porosidade, pH, textura e permeabilidade.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!-- pH no Solo? -->
+
+	<category>
+    	<pattern> # PH # SOLO # </pattern>
+    	<template>
+        	<random>
+				<li> Está relacionado a sua acidez, pois o pH mede essa constante, e o solo pode ter um alto índice de acidez ou baixo.</li>
+				<li> O pH é a relação de acidez de uma determinada substância ou matéria, neste caso o solo.</li> 
+        		<li> O pH do solo é uma forma de medir a acidez do solo.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!-- O que é a porosidade do Solo? -->
+
+	<category>
+    	<pattern> # POROSIDADE # SOLO # </pattern>
+    	<template>
+        	<random>
+				<li> A porosidade do solo é quando existe um espaçamento entre as partículas do solo.</li>
+				<li> A porosidade do solo é a relação de espaçamento entre as partículas do solo. </li> 
+        		<li> A porosidade do solo são os espaçamentos que o solo possui. </li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!-- O que é a textura do Solo? -->
+
+	<category>
+    	<pattern> # TEXTURA # SOLO # </pattern>
+    	<template>
+        	<random>
+				<li> A textura do solo é a relação do tipo de matéria que existe em sua composição, podendo ser feita de areia, lodo e argila. A textura influencia diretamente os tipos de seres vivos que vivem naquele local.</li>
+				<li> O solo possui diversas texturas, sendo elas: argilosas, lodosas e arenosas. Tais texturas influenciam diretamente nos animais que lá residem.</li> 
+        		<li> A textura do solo é definida pela relação de: areia, lodo e argila, que o solo tem, desta forma o solo é formado com textura, contudo irá depender da porcentagem de cada elemento.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # TEXTURAS # SOLO # </pattern>
+    	<template>
+        	<srai> # TEXTURA # SOLO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TEXTURA # SOLOS # </pattern>
+    	<template>
+        	<srai> # TEXTURA # SOLO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # TEXTURAS # SOLOS # </pattern>
+    	<template>
+        	<srai> # TEXTURA # SOLO # </srai>
+    	</template>
+  	</category>
+
+	<!-- O que é a permeabilidade do Solo? -->
+
+	<category>
+    	<pattern> # PERMEABILIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> Está relacionado à porosidade do solo, sendo a capacidade de absorção da água em um solo, logo quanto mais poroso é o solo também será mais permeável.</li>
+				<li> A permeabilidade é a relação entre o solo e o quanto ele pode absorver de água em determinado tempo.</li> 
+        		<li> A permeabilidade do solo é a relação da capacidade do solo em deixar entrar água por causa da porosidade.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+</aiml>
+
